@@ -8,7 +8,7 @@ This repository contains the code and documentation for the data cleaning projec
 
 ## Dataset Description
 
-### Dataset 1: 
+### Dataset 1: .csv dataset file
 
 - **Purpose:** This dataset helps you to increase the data-cleaning process using the pure Python pandas library.
 - **Content:** Includes Age,Salary,Rating ,Location,Established,Easy Apply metrics.
